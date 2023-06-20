@@ -4,7 +4,7 @@
 # so we have installed version 4.5.4.60 .
 
 # that code works only for one image.
-# You could easily change 'image = cv2.imread('image.jpg')' part.
+
 
 from easyocr import Reader
 import cv2
