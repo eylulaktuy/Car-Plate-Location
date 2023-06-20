@@ -1,13 +1,10 @@
-# Car Plate Location
 
-#Eylül Aktuy 201811004
-#F.Buse Çinkaya 201811019
 
 # NOTE: writing OpenCV version (4.5.5.62) is not compatible with EasyOCR,
 # so we have installed version 4.5.4.60 .
 
-# We have used and loaded 3 images. But that code works only for one image.
-# You could easily change 'image = cv2.imread('image.jpg')' part which one you desire to use and check. Thanks:)
+# that code works only for one image.
+# You could easily change 'image = cv2.imread('image.jpg')' part.
 
 from easyocr import Reader
 import cv2
