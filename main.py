@@ -1,10 +1,6 @@
 
-
 # NOTE: writing OpenCV version (4.5.5.62) is not compatible with EasyOCR,
-# so we have installed version 4.5.4.60 .
-
-# that code works only for one image.
-
+# so install version 4.5.4.60.
 
 from easyocr import Reader
 import cv2
